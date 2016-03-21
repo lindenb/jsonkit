@@ -1,6 +1,8 @@
 *.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+event.tab.*
+lex.jsevent.*
+*.o
+*~
+jeter*
+*.tmp
+event.xml
